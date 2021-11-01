@@ -1,6 +1,0 @@
-function capitalize(str){
-    let t = str[0].toUpperCase(0);
-    let temp = str.slice(1, str.length);
-     t += temp;
-    return t;
-}
